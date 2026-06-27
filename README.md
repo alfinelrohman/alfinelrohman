@@ -1,18 +1,19 @@
-## Hi there 👋
+## Hi there I'm Alfin👋
 
-<!--
-**alfinelrohman/alfinelrohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Technical Lead Architect | DevSecOps | Cybersecurity | Cloud Architect
+Passionate technology leader with extensive experience in Solution Architecture, DevSecOps, Cybersecurity, Cloud Infrastructure, and Modern Application Development.
+I specialize in designing secure, scalable, and resilient systems that bridge business requirements with modern technology solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-
+💼 Current Focus
+Solution Architecture
+DevSecOps & Security Engineering
+Google Cloud Platform (GCP)
+Kubernetes & Container Platforms
+Cybersecurity & Zero Trust Architecture
+Hyperledger Fabric Blockchain
+Generative AI & RAG Applications
+AI-Powered Security Solutions
+Modern Web Applications
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alfin-rohmanul-khaqi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfinelrohman@gmail.com) 
